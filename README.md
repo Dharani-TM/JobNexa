@@ -2,7 +2,7 @@
 
 A full-stack job board platform built with the **MERN stack** (MongoDB, Express, React, Node.js) that connects employers with job seekers.
 
----
+--
 
 ## What Can You Do?
 
@@ -16,7 +16,7 @@ A full-stack job board platform built with the **MERN stack** (MongoDB, Express,
 - View all applicants for each job
 - Update application status (Pending → Reviewed → Shortlisted → Accepted / Rejected)
 
----
+--
 
 ## Tech Stack
 
